@@ -1,1 +1,2 @@
 # myJsCode
+Hi there!
